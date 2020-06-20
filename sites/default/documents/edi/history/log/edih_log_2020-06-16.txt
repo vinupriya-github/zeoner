@@ -1,0 +1,28 @@
+20200616:130659 EDI_History Setup should not overwrite existing data.<br>
+Setup: directory /var/www/html/openemr/openemr-5.0.2/sites/default/documents/edi<br>
+created folder /var/www/html/openemr/openemr-5.0.2/sites/default/documents/edi/history<br>
+created folder /var/www/html/openemr/openemr-5.0.2/sites/default/documents/edi/history/csv<br>
+created folder /var/www/html/openemr/openemr-5.0.2/sites/default/documents/edi/history/archive<br>
+created folder /var/www/html/openemr/openemr-5.0.2/sites/default/documents/edi/history/log<br>
+created folder /var/www/html/openemr/openemr-5.0.2/sites/default/documents/edi/history/tmp
+folder for f837 exists /var/www/html/openemr/openemr-5.0.2/sites/default/documents/edi<br>
+created type folder /var/www/html/openemr/openemr-5.0.2/sites/default/documents/edi/history/f997<br>
+created type folder /var/www/html/openemr/openemr-5.0.2/sites/default/documents/edi/history/f276<br>
+created type folder /var/www/html/openemr/openemr-5.0.2/sites/default/documents/edi/history/f277<br>
+created type folder /var/www/html/openemr/openemr-5.0.2/sites/default/documents/edi/history/f270<br>
+created type folder /var/www/html/openemr/openemr-5.0.2/sites/default/documents/edi/history/f271<br>
+created type folder /var/www/html/openemr/openemr-5.0.2/sites/default/documents/edi/history/f278<br>
+
+20200616:130659 _GET request 
+ srvinfo => yes  csrf_token_form => c35617ad1add82be5dab3f8e35907288cce33504 
+20200616:130659 _GET request 
+ csvtbllist => yes  csrf_token_form => c35617ad1add82be5dab3f8e35907288cce33504 
+20200616:130659 _GET request 
+ archlist => yes  csrf_token_form => c35617ad1add82be5dab3f8e35907288cce33504 
+20200616:130659 csv_archive_select_list: using /var/www/html/openemr/openemr-5.0.2/sites/default/documents/edi/history/archive
+20200616:130659 _GET request 
+ loglist => yes  csrf_token_form => c35617ad1add82be5dab3f8e35907288cce33504 
+20200616:140608 _POST request 
+ csrf_token_form => c35617ad1add82be5dab3f8e35907288cce33504  NewFiles => ProcessNew 
+20200616:140608 User: ::1 - June 16, 2020, 2:01 pm
+20200616:140608 edih_upload_files: _FILES error mime-type Untitled 1.odt mime-type application/vnd.oasis.opendocument.text

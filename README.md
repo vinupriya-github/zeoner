@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Build Status](https://travis-ci.org/openemr/openemr.svg?branch=master)](https://travis-ci.org/openemr/openemr)
 [![Backers on Open Collective](https://opencollective.com/openemr/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/openemr/sponsors/badge.svg)](#sponsors)
 
@@ -69,3 +70,6 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 ### License
 
 [GNU GPL](LICENSE)
+=======
+# zeoner
+>>>>>>> efb835616d267969ce02637e04e93abf837dc910

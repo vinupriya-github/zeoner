@@ -69,7 +69,7 @@ $returnurl = 'encounter_top.php';
 
 <tr>
 <td>
-	Alergyname: 
+	New_Alergyname: 
 </td>
 <td>
 	<input name="alergyname" id="alergyname" type="text" size="15" maxlength="15">
